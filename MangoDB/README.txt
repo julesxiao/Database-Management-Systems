@@ -1,1 +1,0 @@
-This assignment will have you implement some mongo functionality in Java. It is loosely based on the existing MongoDB driver for Java. This driver is used to connect to an existing Mongo database in your Java applications. Instead of connecting to an existing Mongo database, your assignment will also be in charge of managing the data - reading and writing JSON from disk.
